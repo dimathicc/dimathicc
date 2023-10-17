@@ -1,7 +1,7 @@
 ## Languages
 ![Java](https://img.shields.io/badge/java-FF7400.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2314354C.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
 ## Technologies 
 ![Spring Framework](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
