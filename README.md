@@ -1,11 +1,12 @@
-## Languages
-![Java](https://img.shields.io/badge/java-FF7400.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2314354C.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-
-## Technologies 
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353874/hibernate.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/452192/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/373829/maven.svg" title="Maven"  alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
