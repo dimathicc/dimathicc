@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dmitrii and I'm a Java Software Engineer at MegaFon</h2>
+<h2 align="left">Hi 👋! My name is Dmitrii and I'm a Java Software Engineer</h2>
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimathicc&theme=default&hide_border=false" height="170">
